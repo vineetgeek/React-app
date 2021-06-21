@@ -8,13 +8,13 @@ const Hero = (props) => (
   <Section row padding>
     <LeftSection>
       <SectionTitle main center>
-        Hello There!<br />
+        Hello there!<br />
         i'am Vineet Srivastav
 
 
       </SectionTitle>
       <SectionText>
-        This is a portfolio where i will be adding most of my details and link along with, it will helpo you to Judge me more accuratly. FUCK OFF Bitches/...
+        It's a React based Portfolio, if you source code of this React web you can find it on my Github.
       </SectionText>
       <Button Onclick={() => window.location = 'https://vineetgeek.com'}>Learn More</Button>
 

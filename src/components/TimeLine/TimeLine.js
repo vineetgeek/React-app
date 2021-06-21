@@ -48,7 +48,7 @@ const Timeline = () => {
         About Me
       </SectionTitle>
       <SectionText>
-        The purpose of JavaScript is to make website interactive which means we can create variable with a specific function of it. Reactjs is yet another beautiful Framwork of Js.
+        A Full Stack Developer, iOS devloper, A Tech blogger, A Geek..
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

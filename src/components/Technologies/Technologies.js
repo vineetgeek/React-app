@@ -11,7 +11,7 @@ const Technologies = () =>  (
       Technologies
     </SectionTitle>
     <SectionText>
-      I used to work here sometime ago but my project was chutiya that's why left that
+      The Technologies used to build this site is Reactjs and Nextjs
     </SectionText>
     <List>
       <ListItem>
